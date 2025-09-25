@@ -4,4 +4,4 @@ To run and test code. Copy and paste code into any IDE, that supports java.util.
 
 And make sure the file name is RandomizeInPlace because the class name is RandomizeInPlace.
 
-I simply left the src code so copying and pasting can be easy to do.
+I simply left the src code so copying and pasting can be easy to do. Just click on RandomizeInPlace.Java file.
