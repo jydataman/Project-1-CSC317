@@ -1,3 +1,4 @@
+// you can erase line 2 once you copied code into your ide of prefrence.
 package week14FinalWeek;
 
 import java.util.Random;
@@ -43,3 +44,4 @@ public class RandomizeInPlace {
         System.out.println("Final List: " + Arrays.toString(myList));
     }
 }
+
